@@ -1,0 +1,5 @@
+// run the ts code
+
+// npx ts-node-dev --respawn ./src/function.ts
+
+// npx ts-node-dev --respawn ./src/problem-2.ts
